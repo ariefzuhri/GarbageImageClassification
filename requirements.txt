@@ -1,0 +1,11 @@
+ai_edge_litert
+kagglehub
+kagglesdk
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+seaborn
+tensorflow[and-cuda]
+tensorflowjs
